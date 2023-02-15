@@ -1,0 +1,10 @@
+export { default as ParlamentController } from './parlament.controller';
+export { default as CommitteeController } from './committe.controller';
+export { default as FactionController } from './faction.controller';
+export { default as UnitController } from './unit.controller';
+export { default as CitizenReceptionController } from './citizen.reception.controller';
+export { default as StandingCommitteeController } from './standing.committee.controller';
+export { default as AcceptabilityController } from './acceptability.controller';
+export { default as SecondAcceptabilityController } from './second.acceptability.controller';
+export { default as TimeStampController } from './timestamp.controller';
+export { default as SuperAdminController } from './super.admin.controller';

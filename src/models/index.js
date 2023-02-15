@@ -1,0 +1,11 @@
+export { default as UsersModel } from './users.model';
+export { default as ParlamentModel } from './parlament.model';
+export { default as CommitteeModel } from './committee.model';
+export { default as FactionModel } from './faction.model';
+export { default as UnitModel } from './unit.model';
+export { default as Tex1tModel } from './text1.model';
+export { default as Tex2tModel } from './text2.model ';
+export { default as AcceptabilityModel } from './acceptability.model';
+export { default as SecondAcceptabilityModel } from './second.acceptability.model';
+export { default as TimeStampModel } from './time.stamp.model';
+export { default as SuperAdminModel } from './super.admin.model';
